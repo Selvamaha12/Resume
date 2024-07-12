@@ -1,0 +1,110 @@
+*{
+    padding:0;
+    margin:0 ;
+}
+body{
+    font-family:'Times New Roman', Times, serif;
+}
+.container{
+    padding: 50px;
+}
+.section-one{
+    background-color: darkcyan;
+    color: white;
+    padding: 20px;
+    margin-top: 10px;
+}
+.section-one__contact{
+background-color: green;
+color: white;
+text-decoration: none;
+padding-left: 10px;
+padding-right: 10px;
+padding-top: 10px;
+padding-bottom: 10px;
+display: inline-block;
+margin-top: 10px;
+}
+.section-one__name{
+    font-size: 50px;
+}
+.section-one__rool{
+    font-size: 25px;
+    margin-top: 10px;
+
+}.section-one__email{
+    
+    margin-top: 10px;
+}.section-one__linkedin{
+    
+    margin-top: 10px;
+}
+.section-one__email a{
+    color:darkred
+}
+.section-one__linkedin a{
+    color:darkred
+}
+.section-three__tool{
+    padding-left:2px ;
+}
+.section-three__tool,.section-three__list,.section-six__list{
+        margin-top: 10px;
+       
+        
+    }
+    .section-two__desc,.section-three__desc,.section-three__desc2,.section-three__tool,.section-three__tool2{
+        margin-top: 10px;
+margin-bottom: 10px;
+    }
+
+.section-three__list,.section-six__list{
+    margin-top: 10px;
+    
+}
+.section-nine{
+    background-color: darkcyan;
+    color: white;
+    padding: 20px;
+    margin-top: 10px;
+}
+.section-seven__title,.section-eight__title,.section-five__title,.section-four__title,.section-three__title{
+
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+.section-nine__title{
+    margin-bottom: 10px;
+}
+.section-nine__date,.section-two__title,.section-three__name2,.section-six__title{
+    margin-top: 10px;
+}
+.section-ten{
+    background-color:lavender;
+    color:black;
+    padding: 20px;
+    margin-top: 10px;
+}
+.components{
+    display: flex;
+}
+.hardware_component ul{
+    padding-left: 20px;
+}
+.software_component ul{
+    padding-left: 20px;
+}
+.software_component{
+    padding-left: 40px;
+}
+section-nine__title ul{
+    line-height: 10px;
+}
+.move{
+    padding-left: 30px;
+}
+.move1{
+    padding-left: 15px;
+}
+
+
